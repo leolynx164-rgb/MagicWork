@@ -1,0 +1,33 @@
+{
+  "name": "MagicWOrk",
+  "version": "2.1.0",
+  "description": "L outils pour simplifier la vie des enseignants",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron . --no-sandbox",
+    "dist": "electron-builder"
+  },
+  "keywords": [],
+  "author": "Votre Nom",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^42.5.0",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.monapp.electron",
+    "productName": "MonApp",
+    "files": [
+      "index.html",
+      "style.css",
+      "app.js",
+      "main.js"
+    ],
+    "linux": {
+      "target": ["AppImage"]
+    },
+    "win": {
+      "target": ["nsis"]
+    }
+  }
+}
