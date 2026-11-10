@@ -1,3 +1,6 @@
+# ▸ MagicWork 2 vien de sortir !! ◂
+⚠ Code source non à jour pour l'instant ⚠
+
 <p align="center">
   <img src="./ChatGPT%20Image%205%20oct.%202026%2C%2017_59_50.png" alt="MagicWork">
 </p>
@@ -34,7 +37,7 @@ npm install
 ## ✦ Lancer
 
 ```bash
-npm start
+npm run dev
 ```
 
 ## ✦ API
