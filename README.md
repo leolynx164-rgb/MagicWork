@@ -1,4 +1,5 @@
-# ▸ MagicWork 2 vien de sortir !! ◂
+# <span style="color:blue">▸ Magic Work 2 vient de sortir !! ◂</span>
+
 ⚠ Code source non à jour pour l'instant ⚠
 
 <p align="center">
